@@ -12,8 +12,8 @@ Welcome to my GitHub! I'm a developer/Modder for android and windows
 ---
 
 ## 🚀 Projects
-- [NovaExecutor](https://github.com/YourRepoLink) – Blockman Go executor tool  
-- [GMHelper](https://github.com/YourRepoLink) – Blockman Go Admin panel  
+- [NovaExecutor]([https://github.com/YourRepoLink](https://github.com/VortexDev1/Nova-Executer)) – Blockman Go executor tool  
+- [GMHelper]([https://github.com/YourRepoLink](https://github.com/VortexDev1/GMHelper)) – Blockman Go Admin panel  
 <!--- [Lua VEncryptor](https://github.com/YourRepoLink) – Lua 5.1 encryption/obfuscation tool  -->
 
 ---
