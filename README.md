@@ -19,9 +19,9 @@ Welcome to my GitHub! I'm a developer/Modder for android and windows
 ---
 
 ## 💬 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-@YourHandle-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@vortexhacker1)  
-[![Discord](https://img.shields.io/badge/Discord-@YourHandle-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/@vortexhacker1)  
-[![YouTube](https://img.shields.io/badge/YouTube-@YourHandle-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@vortexhacker1)  
+[![Telegram](https://img.shields.io/badge/Telegram-@vortexhacker1-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@vortexhacker1)  
+[![Discord](https://img.shields.io/badge/Discord-@vortexhacker1-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/@vortexhacker1)  
+[![YouTube](https://img.shields.io/badge/YouTube-@vortexhacker1-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@vortexhacker1)  
 
 
 ---
