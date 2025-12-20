@@ -1,37 +1,28 @@
-# Hi, I'm Leader Mohammad 👋
+# Hi, I'm Vortex 👋
 
-Welcome to my GitHub! I'm a developer passionate about game modding, Lua scripting, and Android emulators.
+Welcome to my GitHub! I'm a developer/Modder for android and windows
 
 ---
 
 ## 🔧 Skills & Tools
-- **Programming:** C++, Python, Lua, Java
-- **Tools:** IDA Pro, WSL, LD Player, MEmu Player
-- **Interests:** Game hacking, Emulator optimization, Modding tools
+- **Programming:** C++, html, css, Lua, Java
+- **Tools:** IDA Pro, Memu Player
+- **Hobby:** modding games and develop apps
 
 ---
 
 ## 🚀 Projects
-- [VetaExecutor](https://github.com/YourRepoLink) – Roblox executor tool  
-- [BMSetting](https://github.com/YourRepoLink) – Blockman Go modding panel  
-- [Lua Encryptor](https://github.com/YourRepoLink) – Lua 5.1 encryption/obfuscation tool  
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeaderMohammad&show_icons=true&theme=radical)
-
----
-
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaderMohammad&layout=compact&theme=radical)
+- [NovaExecutor](https://github.com/YourRepoLink) – Blockman Go executor tool  
+- [GMHelper](https://github.com/YourRepoLink) – Blockman Go Admin panel  
+<!--- [Lua VEncryptor](https://github.com/YourRepoLink) – Lua 5.1 encryption/obfuscation tool  -->
 
 ---
 
 ## 💬 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@YourHandle-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourHandle)  
+[![Telegram](https://img.shields.io/badge/Telegram-@YourHandle-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@vortexhacker1)  
+[![Discord](https://img.shields.io/badge/Discord-@YourHandle-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/@vortexhacker1)  
+[![YouTube](https://img.shields.io/badge/YouTube-@YourHandle-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@vortexhacker1)  
+
 
 ---
 
-✨ Fun fact: I love experimenting with emulators and optimizing them for low-end PCs!
