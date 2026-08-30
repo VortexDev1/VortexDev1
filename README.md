@@ -5,8 +5,8 @@ Welcome to my GitHub! I'm a developer/Modder for android and windows
 ---
 
 ## 🔧 Skills & Tools
-- **Programming:** C++, html, css, Lua, Java
-- **Tools:** IDA Pro, Memu Player
+- **Programming:** C++, Lua
+- **Tools:** IDA Pro, Microsoft Visual Studio
 - **Hobby:** modding games and develop apps
 
 ---
